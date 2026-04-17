@@ -147,8 +147,6 @@ npm run start
 ![갈아타기 비교 화면](./docs/screenshots/transfer.png)
 
 ### 기타 화면
-- 로그인 화면  
-  ![로그인 화면](./docs/screenshots/login.png)
 - 부가 페이지 화면  
   ![부가 페이지 화면](./docs/screenshots/products.png)
 
