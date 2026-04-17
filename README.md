@@ -131,13 +131,16 @@ npm run start
 
 ## 스크린샷
 
+아래 이미지는 현재 RefinPick 구조 기준으로 연결한 대표 화면입니다.
+최신 UI가 더 변경되면 같은 경로의 이미지 파일만 교체해 README를 유지할 수 있습니다.
+
 ### 메인 페이지
 ![메인 페이지](./docs/screenshots/home.png)
 
-### 기능 페이지 / 계산기 화면
+### 기능 페이지 / 계산기 인터랙션 화면
 ![기능 페이지 계산기 화면](./docs/screenshots/dashboard.png)
 
-### 시나리오 또는 보조 기능 화면
+### 시나리오 체험 화면
 ![시나리오 관련 화면](./docs/screenshots/ai-chat.png)
 
 ### 갈아타기 비교 및 시각화 화면
@@ -148,6 +151,12 @@ npm run start
   ![로그인 화면](./docs/screenshots/login.png)
 - 부가 페이지 화면  
   ![부가 페이지 화면](./docs/screenshots/products.png)
+
+### 스크린샷 관리 메모
+- `home.png` : 메인 페이지 대표 화면
+- `dashboard.png` : 현재 기능 페이지의 계산기/결과 영역 대표 이미지로 사용
+- `ai-chat.png` : 현재 시나리오 페이지 대표 이미지 자리로 사용
+- `transfer.png` : 갈아타기 비교 관련 화면 대표 이미지
 
 ## 포트폴리오 포인트
 
